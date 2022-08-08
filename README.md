@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-kaelin.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone
+git clone https://github.com/KingRhy10/tasty-tater.git
 ```
 
 2. Backend setting
